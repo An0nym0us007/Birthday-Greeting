@@ -26,7 +26,7 @@ const birthday = {
     },
     {
       src: "Birthday Greeting/image/photo 5.jpg",
-      caption: "Keep smiling ate ko"
+      caption: "Keep smiling ate ko❤️"
     },
     {
       src: "Birthday Greeting/image/photo 6.gif",
