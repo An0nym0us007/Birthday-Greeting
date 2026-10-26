@@ -26,11 +26,11 @@ const birthday = {
     },
     {
       src: "Birthday Greeting/image/photo 5.jpg",
-      caption: "Keep smiling ate ko❤️"
+      caption: "Cutieee❤️"
     },
     {
       src: "Birthday Greeting/image/photo 6.gif",
-      caption: "SHS moments"
+      caption: "SHS moments 😎"
     },
   ],
 
