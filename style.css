@@ -523,6 +523,11 @@ section {
   color: var(--pink);
 }
 
+.tulips_bouquet {
+    padding-top: 60px;
+    scroll-margin-top: 20px;
+  }
+
 /* Surprise */
 
 .gift-card {
