@@ -538,6 +538,13 @@ section {
 .Tulips:hover {
     transform: scale(1.05);
 }
+.container {
+   margin: 0;
+   min-height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
 
 /* Surprise */
 
