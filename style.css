@@ -527,6 +527,17 @@ section {
     padding-top: 60px;
     scroll-margin-top: 20px;
   }
+{
+.Tulips { width: 350px;
+    max-width: 90vw;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    transition: transform 0.4s ease;
+        }
+.Tulips:hover {
+    transform: scale(1.05);
+}
 
 /* Surprise */
 
