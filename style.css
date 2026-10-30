@@ -541,12 +541,9 @@ section {
     height: auto;
     object-fit: contain;
     display: block;
-    transition: transform 0.4s ease;
+   
 }
 
-.cutout:hover {
-    transform: scale(1.05);
-}
 
 .qoute {
    text-align: center;
