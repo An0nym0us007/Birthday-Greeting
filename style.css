@@ -548,6 +548,11 @@ section {
     transform: scale(1.05);
 }
 
+.qoute{
+  text-align: center;
+  font-style: itslic;
+}
+
 
 
 /* Surprise */
